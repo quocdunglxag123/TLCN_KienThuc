@@ -1,1 +1,39 @@
 
+Tìm hiểu tổng quan về các công ty
+tìm hiểu tổng quát về công ty dự định đầu tư
+
+Trade:
+    Kiến thức: 
+        + Vốn hóa thị trường (Vốn hóa thị trường = Giá cổ phiếu hiện tại x Cổ phiếu đang lưu hành): Vốn hóa thị trường của một công ty là số liệu chính được sử dụng để đánh giá rủi ro và tiềm năng của cổ phiếu của công ty đó:
+    
+    Biểu đồ tròn:
+	- Thống kê vốn hóa thị trường của toàn công ty: 
+        --> Vốn hóa thị trường của một công ty là số liệu chính được sử dụng để đánh giá rủi ro và tiềm năng của cổ phiếu của công ty đó:
+                + Microcap : dưới 100 tỷ => rủi ro rất cao và nguy hiểm, giá cổ phiếu rất rẻ_hầu hết những doanh nghiệp trong nhóm này hoạt động kinh doanh hiệu quả thấp, hoặc đang bước vào chu kỳ suy thoái
+                + Smallcap: Từ 100 tỷ đồng đến dưới 1.000 tỷ đồng => rủi ro cao nhưng có khả năng tăng giá rất mạnh vì phần lớn đang trên đà phát triển  => phần lớn là đầu tư để lướt sóng  
+                + Midcap: Từ 1.000 tỷ đồng đến 10.000 tỷ đồng => rủi ro thấp nhưng tỷ lệ khả năng tăng mạnh giá sẽ không cao vì phần lớn các công ty này đã phát triển 
+                + Largecap: Trên 10.000 tỷ đồng => đầu tư an toàn, rủi ro thấp, giá tăng theo thời gian (không mạnh) ==> phần lớn đầu tư lâu dài
+    Biểu đồ cột:
+    - Thống kê tổng khối lượng giao dịch của toàn công ty:
+        => rút ra mối quan hệ giữa khối lượng giao dịch và vốn hóa thị trường.
+    - Thống kê tổng giá trị giao dịch của toàn công ty:
+        => rút ra mối quan hệ giữa giá trị giao dịch và vốn hóa thị trường.
+
+    ==> rút ra được các công ty nên xem xet đầu tư
+
+Bussiness Result: https://topi.vn/chi-so-pe-la-gi.html
+    Kiến thức:
+        +   EPS: chỉ số lợi nhuận trên một cổ phiếu , là thành phần chính tạo nên chỉ số định giá P/E, là một chỉ số quan trọng trong hoạt động định giá cổ phiếu và là tiêu chí để đánh giá chất lượng tăng trưởng của doanh nghiệp qua các thời kỳ.
+        +   P/E (Price to Earning ratio) :  Chỉ số P/E mang ý nghĩa thể hiện số tiền nhà đầu tư sẵn sàng bỏ ra để đổi lấy một đồng lợi nhuận trên cổ phiếu.
+            Chỉ số P/E thấp: Nhà đầu tư lựa chọn các công ty có chỉ số P/E thấp thường sẽ theo phương pháp đầu tư giá trị, tức là lựa chọn các cổ phiếu được định giá thấp hơn giá trị thật. đây là những cổ phiếu có mức EPS cao nhưng giá trên thị trường khá thấp khiến chỉ số P/E thấp. Nhà đầu tư kỳ vọng trong tương lai giá cổ phiếu tăng và P/E cũng sẽ tăng. 
+                             Tuy nhiên không phải cổ phiếu nào có chỉ số P/E thấp cũng là cổ phiếu giá trị và đang được định giá thấp. Có những cổ phiếu có P/E thấp do doanh nghiệp có những lợi nhuận không đến từ hoạt động kinh doanh thuần (bán thanh lý tài sản, bán công ty), đây đều là những lợi nhuận không bền vững. Hoặc cổ phiếu này không còn nhiều khả năng phát triển trong tương lai, nên thị trường chỉ chấp nhận trả một mức P/E thấp.
+            Chỉ số P/E cao: Nhà đầu tư lựa chọn các công ty có chỉ số P/E cao thường sẽ theo đuổi phương pháp đầu tư tăng trưởng. Đây thường là những công ty đầu ngành hoặc những công ty có tiềm năng tăng trưởng mạnh trong tương lai. Việc đầu tư vào công ty có chỉ số P/E cao, nhà đầu tư thường kỳ vọng nhưng công ty này sẽ có mức EPS tương lai tăng trưởng mạnh, sẽ khiến chỉ số P/E trong tương lai giảm về mức giá trị thực. 
+                            Tuy nhiên, không phải trường hợp P/E cao nào cũng thể hiện thị trường đang kỳ vọng công ty tăng trưởng tốt trong tương lai. Có thể công ty đang có hoạt động kinh doanh kém hiệu quả, khiến EPS rất thấp nên chỉ sô P/E cao
+    Biểu Đồ Treemap:
+    - Thống kê PE các công ty sẽ đầu tư
+        => rút ra quyết định nên xem xét đầu tư công tư nào trong những công ty đang xem xét
+StockOrder: 
+    => xu hướng mua bán của công ty đang xét
+NĐTNN:
+    => các room mà nhà đầu tư nước ngoài đang sở hữu
+==> Kết luận: chọn và mua cổ phiếu các công ty
